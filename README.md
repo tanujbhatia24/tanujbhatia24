@@ -19,4 +19,4 @@
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanujbhatia24&show_icons=true&theme=radical)
 
 ## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](linkedin.com/in/tanujbhatia)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/tanujbhatia)  
