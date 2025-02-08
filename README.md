@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hello, I'm Tanuj Bhatia!
 
-<!--
-**tanujbhatia24/tanujbhatia24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 TechOps Engineer | DevOps Enthusiast
+🔹 Passionate about automation, cloud, and CI/CD  
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🔭 I’m currently working with **Alight Solutions**  
+- 🌱 I’m learning **Docker, Kubernetes, AWS**  
+- 💬 Ask me about **Git, DevOps, Python**  
+- 📫 Reach me at **tanujbhatia0001@gmail.com**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) 
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) 
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) 
+
+## 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+## 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)  
