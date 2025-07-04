@@ -2,7 +2,7 @@
 
 - **TechOps Engineer | DevOps Enthusiast | Cloud | Automation**
 - Open to roles in DevOps, Cloud Engineering, or Infra Automation
-- Delhi, India | 📧 tanujbhatia0001@gmail.com | [LinkedIn](https://linkedin.com/in/tanujbhatia)
+- Delhi, India | tanujbhatia0001@gmail.com | [LinkedIn](https://linkedin.com/in/tanujbhatia)
 ---
 
 ## 👨‍💼 About Me<br>
